@@ -1,6 +1,6 @@
 {
   "name": "bead-me-up-scotty",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A local web UI for the beads (bd) issue tracker \u2014 board, epics, dependency graph, drag-and-drop.",
   "main": "src/index.ts",
   "scripts": {
